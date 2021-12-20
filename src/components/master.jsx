@@ -1,7 +1,8 @@
 import react from "react";
+import Rendermain from "./main";
 
 const Rendermasterlayout = () => {
-    return <h1>Hello World</h1>
+    return <Rendermain />
 }
 
 export default Rendermasterlayout;
